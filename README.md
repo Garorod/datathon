@@ -1,4 +1,4 @@
-datathon submission
+Citadel Dataopen Project
 ==============================
 
-Citadel Dataopen Project  
+Submission for Dataopen
